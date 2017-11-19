@@ -1,2 +1,3 @@
 # profiles
-user profiles for opentrack
+
+Profiles submitted by the users.
